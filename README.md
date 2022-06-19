@@ -1,0 +1,2 @@
+# Django model
+ zuri assignment
